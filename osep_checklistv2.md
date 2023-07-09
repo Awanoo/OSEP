@@ -67,5 +67,7 @@
 - [ ] JFROG
 - [ ] KEYTAB (Kerberos)
 - [ ] SSH
+-    [ ] Public and Private Key
+-    [ ] SSH hijacking with ControlMaster
 - [ ] Ansible
 - [ ] SPOOLSS
